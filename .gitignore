@@ -1,0 +1,21 @@
+.idea/
+.gradle/
+classes/
+build/
+out/
+# general
+*~
+*.log
+tmp
+dump
+**/.DS_Store
+.svn/
+.metadata/
+.project
+Thumbs.db
+*.iml
+log.*/
+target/
+#node
+**/node_modules/
+rebel.xml
